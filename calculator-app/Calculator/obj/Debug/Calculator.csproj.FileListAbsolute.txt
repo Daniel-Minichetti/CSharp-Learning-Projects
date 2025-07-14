@@ -1,0 +1,8 @@
+C:\Users\racer\source\repos\Daniel-Minichetti\CSharp-Learning-Projects\calculator-app\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\racer\source\repos\Daniel-Minichetti\CSharp-Learning-Projects\calculator-app\Calculator\bin\Debug\Calculator.exe
+C:\Users\racer\source\repos\Daniel-Minichetti\CSharp-Learning-Projects\calculator-app\Calculator\bin\Debug\Calculator.pdb
+C:\Users\racer\source\repos\Daniel-Minichetti\CSharp-Learning-Projects\calculator-app\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\racer\source\repos\Daniel-Minichetti\CSharp-Learning-Projects\calculator-app\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\racer\source\repos\Daniel-Minichetti\CSharp-Learning-Projects\calculator-app\Calculator\obj\Debug\Calculator.exe
+C:\Users\racer\source\repos\Daniel-Minichetti\CSharp-Learning-Projects\calculator-app\Calculator\obj\Debug\Calculator.pdb
+C:\Users\racer\source\repos\Daniel-Minichetti\CSharp-Learning-Projects\calculator-app\Calculator\obj\Debug\Calculator.exe.config
