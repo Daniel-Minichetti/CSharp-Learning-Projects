@@ -63,6 +63,7 @@ namespace rng_game
             {
                 Console.WriteLine("Sorry you ran out of guesses.");
             }
+
             Console.ReadKey();
 
         }
